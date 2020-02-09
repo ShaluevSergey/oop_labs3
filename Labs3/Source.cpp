@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+//Тест
 double sqr(double x)
 {
 	return x * x;
